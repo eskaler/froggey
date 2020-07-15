@@ -1,0 +1,10 @@
+/originalSource/*
+/__pycache__/*
+/exe/*
+*.code-workspace
+testArgv.py
+*.zip
+*.psproj
+Thumbs*
+*.ico
+*vscode
